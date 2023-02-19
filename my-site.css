@@ -1,0 +1,190 @@
+body{
+    background-image: url("background/images\ \(1\).jfif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+nav{ 
+    height: 40px;
+    background-color: rgb(207, 219, 215);
+    margin-top: 30px ;
+}
+.nav-img{
+    height: 40px;
+    width: 30%;
+    float: left;
+    margin-left: 2.5%;
+}
+.nav-img img{
+    height: 100%;
+}
+.sarch{
+    width: 30%;
+    float: left;
+    height: 30px;
+    margin-left: 2.5%;
+}
+.nav-button{ 
+    float: left; 
+    width: 30%;
+    height: 30px;
+    text-align: right;
+    Padding-top: 10px;
+    margin-left: 2.5%;
+}
+.nav-button a{
+    text-decoration: none;
+    background-color: black; 
+    padding: 10px 20px;
+    border-radius: 10px;
+    height: 40px;
+    color: white; transition: background-color 0s ease-in-out 0s;
+}
+.nav-button a:hover{
+    background-color: lightgray;
+}
+.main{
+    height: 500px;
+    background-image: url("background/photo-1553095066-5014bc7b7f2d.jfif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.text input{
+    background-color: coral;
+    padding: 10px 20px;
+    border-radius: 10px;
+ }
+.text{
+    padding-top: 200px;
+    padding-left: 500px;
+    color: aliceblue;
+}
+.t1{ font-size: xx-large; }
+.t2{ font-size: x-large;}
+.t3{ font-size: small;}
+.HIRE{ 
+    text-decoration: none;
+    background-color: rgb(199, 112, 54); 
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: ghostwhite;  
+      
+}
+
+
+.my-information{
+    min-height: 400px;
+    background-color: aqua;
+    background-image: url("background/ima.jfif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+}
+ .me{
+    width: 40%;
+    height:400px ;
+    float: left;
+    margin: 0% 5% 0% 5%;
+ }
+.me img{ 
+    height: 100%;
+    width: 60%;
+    margin-left: 30%;
+}
+#me1{
+    box-shadow: 10px 10px 10px gray;
+
+}
+
+
+.section3{
+    height: 560px;
+    background-image: url("background/istockphoto-1295530809-612x612.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+   
+}
+.last{
+    height: 500px; ;
+    width: 20%;
+    margin-left: 3.5%;
+    float: left;
+    background-color: azure;
+   box-shadow: 10px 10px 10px 10px  gray;
+   border-radius: 30px;
+}
+.last img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+.section4{
+    height: 320px;
+}
+.Contact{
+    margin-left: 1.7%;
+    width: 18%;
+    height: 310px;
+    float: left;
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray; 
+
+}
+.Contact img{
+    width: 90%;
+    margin: 5%;
+    border-radius: 10px;
+    height: 50%;
+}
+.Contact p{
+    margin-left: 10px ;
+}
+.tk{
+    font-size: x-large;
+}
+.pp{
+    margin: 0px 10px;
+}
+.pp a:hover{
+    background-color: lightgray;
+}
+main{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    background-image: url("background/istockphoto-1295530809-612x612.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+.section5{
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(153, 149, 149);
+    padding: 5%
+}
+.finish{
+    width: 30%;
+    float: left;
+    height: 200px ;
+    border-left: 2px solid rgb(14, 13, 13);
+}
+.section5 div a{
+    text-decoration: none;
+    font-size: larger;
+    color: chocolate;
+    font-style: italic;
+    margin-left: 10%;
+    
+}
+.section5 div a:hover{
+    background-color: rgb(168, 163, 160);
+}
+footer{
+    height: 50px;
+    text-align: center;
+}
